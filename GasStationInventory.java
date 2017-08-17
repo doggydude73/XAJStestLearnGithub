@@ -20,6 +20,7 @@ function SubtractInventory(Item a){
 function CheckInventory(){
 
 	DoPrintInventory();
+	DoMorePrinting();
 }
 
 }
