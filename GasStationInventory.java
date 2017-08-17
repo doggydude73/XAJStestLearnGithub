@@ -15,4 +15,10 @@ function SubtractInventory(Item a){
 
 	DoStuff();
 }
+
+function CheckInventory(){
+
+	DoPrintInventory();
+}
+
 }
