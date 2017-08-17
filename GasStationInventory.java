@@ -3,6 +3,7 @@ public GasStationInventory{
 function Main{
 
 DoStuff();
+DoMoreStuff();
 
 }
 
