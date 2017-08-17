@@ -6,4 +6,9 @@ DoStuff();
 
 }
 
+function AddInventory(Item a){
+
+	DoStuff();
+}
+
 }
